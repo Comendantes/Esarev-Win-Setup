@@ -1,1 +1,1 @@
-{ "name": "esarev-win-setup", "version": "1.0.0", "scripts": { "start": "vite" }, "dependencies": {}, "devDependencies": { "vite": "^2.0.0" } }
+{"name": "your-project-name", "version": "1.0.0", "dependencies": {"react": "^17.0.2", "react-dom": "^17.0.2"}, "devDependencies": {"typescript": "^4.0.0"}}
